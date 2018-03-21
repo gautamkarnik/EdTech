@@ -1,0 +1,85 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">EdTech Afrique</string>
+
+    <!-- TTS -->
+    <string name="speech_prompt">Dites un mot!</string>
+    <string name="speech_not_supported">Désolé!  Votre appareil ne supporte pas l\'entrée de la vocale.</string>
+    <string name="text_to_speech_fail_text">Désolé ! La synthèse vocale échoué.</string>
+
+    <!-- Tabs -->
+    <string name="title_section1">Leçons</string>
+    <string name="title_section2">abc</string>
+    <string name="title_section3">123</string>
+    <string name="title_section4">Parlez</string>
+
+    <!-- Profile -->
+    <string name="action_profile">Profil</string>
+    <string name="title_activity_profile">Profil</string>
+    <string name="name">Nom:</string>
+    <string name="languages">Langues</string>
+    <string name="english">Anglais</string>
+    <string name="swahili">Swahili</string>
+    <string name="mode">Mode</string>
+    <string name="learning">Apprentissage</string>
+    <string name="testing">Essai</string>
+    <string name="use_online_lessons">Utiliser les leçons en ligne</string>
+
+    <!-- Lesson Thread Messages -->
+    <string name="run_unit_text">Leçon de départ:</string>
+    <string name="lesson_complete_text">Leçons effectuées.</string>
+    <string name="cancel_lesson_text">Annulation des leçons en cours. Veuillez patienter.</string>
+    <string name="could_not_load_online_lessons_text">Impossible de charger les leçons en ligne. Vérifier la connectivité.</string>
+    <string name="match">CORRESPONDRE</string>
+    <string name="correct">CORRECT</string>
+    <string name="try_again">RÉESSAYER</string>
+
+    <!-- Flash Bar -->
+    <string name="score">Score:</string>
+
+    <!-- Math Symbols -->
+    <string name="plus">plus</string>
+    <string name="minus">moins</string>
+    <string name="times">multiplié par</string>
+    <string name="divided_by">divisé par</string>
+    <string name="raised_to">puissance</string>
+    <string name="equals">égale</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Envoyer</string>
+    <string name="not_connected">Vous n\'êtes pas connecté à un périphérique.</string>
+    <string name="bt_not_enabled_leaving">La connexion Bluetooth n\'était pas activée. Quitter le chat Bluetooth.</string>
+    <string name="title_connecting">connexion en cours</string>
+    <string name="title_connected_to">connectée à <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">non connecté</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Recherche d\'appareils en cours</string>
+    <string name="select_device">Sélectionnez l\'appareil auquel se connecter</string>
+    <string name="none_paired">Aucun appareil n\'a été appairé</string>
+    <string name="none_found">Aucun appareil n\'a été détecté</string>
+    <string name="title_paired_devices">Appareils appairés</string>
+    <string name="title_other_devices">Autres périphériques disponibles</string>
+    <string name="button_scan">Détecter d\'autres appareils</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connecter un appareil - Sécurisé</string>
+    <string name="insecure_connect">Connecter un appareil - Non sécurisé</string>
+    <string name="discoverable">Rendre visible</string>
+
+    <!-- ToolTips -->
+    <string name="click_on_a_lesson">Cliquez sur une leçon.</string>
+    <string name="write_on_the_slate">Ecrivez au tableau.</string>
+    <string name="hear_the_slate">Écoutez le tableau.</string>
+    <string name="see_and_hear_the_answer">Voir et entendre la réponse.</string>
+    <string name="clear_the_slate">Effacer le tableau.</string>
+    <string name="record_your_voice">Enregistrez votre voix.</string>
+    <string name="clear_voice_slate">Voix claire sur le tableau.</string>
+    <string name="stop_recording">Arrêter l\'enregistrement.</string>
+    <string name="listen">Ecoutez.</string>
+    <string name="welcome">Bienvenue!</string>
+
+    <!-- Permissions -->
+    <string name="thank_you">Merci.</string>
+    <string name="missing_permissions_needed">Autorisations manquantes nécessaires. S\'il vous plaît permettre dans Paramètres de l\'application pour des fonctionnalités supplémentaires.</string>
+
+</resources>

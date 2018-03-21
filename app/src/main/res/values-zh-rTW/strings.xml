@@ -1,0 +1,85 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">EdTech 非洲</string>
+
+    <!-- TTS -->
+    <string name="speech_prompt">請說話！</string>
+    <string name="speech_not_supported">抱歉！您的設備不支持語音輸入。</string>
+    <string name="text_to_speech_fail_text">抱歉！Text To Speech 失敗。</string>
+
+    <!-- Tabs -->
+    <string name="title_section1">教程</string>
+    <string name="title_section2">abc</string>
+    <string name="title_section3">123</string>
+    <string name="title_section4">說話</string>
+
+    <!-- Profile -->
+    <string name="action_profile">設定檔</string>
+    <string name="title_activity_profile">設定檔</string>
+    <string name="name">姓名：</string>
+    <string name="languages">語言</string>
+    <string name="english">英語</string>
+    <string name="swahili">斯瓦希里语</string>
+    <string name="mode">模式</string>
+    <string name="learning">學習</string>
+    <string name="testing">測試</string>
+    <string name="use_online_lessons">使用在線課程</string>
+
+    <!-- Lesson Thread Messages -->
+    <string name="run_unit_text">起始課：</string>
+    <string name="lesson_complete_text">課程已完成。</string>
+    <string name="cancel_lesson_text">正在取消當前的教程。請稍候。</string>
+    <string name="could_not_load_online_lessons_text">無法加載在線課程。 檢查連接。</string>
+    <string name="match">完美匹配</string>
+    <string name="correct">正確</string>
+    <string name="try_again">再試一次</string>
+
+    <!-- Flash Bar -->
+    <string name="score">得分了：</string>
+
+    <!-- Math Symbols -->
+    <string name="plus">加</string>
+    <string name="minus">減</string>
+    <string name="times">乗</string>
+    <string name="divided_by">除</string>
+    <string name="raised_to">的次冪</string>
+    <string name="equals">等於</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">發送</string>
+    <string name="not_connected">您沒有連接到設備。</string>
+    <string name="bt_not_enabled_leaving">藍牙未啟用。請關閉 Bluetooth Chat。</string>
+    <string name="title_connecting">連線中...</string>
+    <string name="title_connected_to">已連接到 <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">未連接</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">正在掃描設備</string>
+    <string name="select_device">選擇一個設備以連接</string>
+    <string name="none_paired">沒有已配對的設備</string>
+    <string name="none_found">未找到設備</string>
+    <string name="title_paired_devices">已配對設備</string>
+    <string name="title_other_devices">其他可見設備</string>
+    <string name="button_scan">掃描設備</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">連接設備 - 安全</string>
+    <string name="insecure_connect">連接設備 - 不安全</string>
+    <string name="discoverable">設置為可被發現</string>
+
+    <!-- ToolTips -->
+    <string name="click_on_a_lesson">點擊課程。</string>
+    <string name="write_on_the_slate">寫在黑板上。</string>
+    <string name="hear_the_slate">聽黑板。</string>
+    <string name="see_and_hear_the_answer">看到並聽到答案。</string>
+    <string name="clear_the_slate">清潔黑板。</string>
+    <string name="record_your_voice">記錄你的聲音。</string>
+    <string name="clear_voice_slate">清潔黑板上的聲音。</string>
+    <string name="stop_recording">停止錄音。</string>
+    <string name="listen">聽。</string>
+    <string name="welcome">歡迎！</string>
+
+    <!-- Permissions -->
+    <string name="thank_you">謝謝。</string>
+    <string name="missing_permissions_needed">需要缺少權限。 請在應用程序設置中允許其他功能。</string>
+
+</resources>

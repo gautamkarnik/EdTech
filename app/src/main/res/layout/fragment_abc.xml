@@ -1,0 +1,83 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="1dp"
+    android:paddingRight="1dp"
+    android:paddingTop="1dp"
+    android:paddingBottom="1dp"
+    tools:context=".activities.MainActivity">
+
+    <TextView
+        android:id="@+id/exerciseAbc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:text="Exercise:"
+        android:layout_alignBottom="@+id/speakAbc"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/speakAbc" />
+
+    <ImageButton
+        android:id="@+id/clearAbc"
+        android:src="@android:drawable/stat_notify_sync"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:id="@+id/speakAbc"
+        android:src="@android:drawable/ic_lock_silent_mode_off"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/gestureViewAbc"
+        android:layout_toStartOf="@+id/clearAbc"/>
+
+    <android.gesture.GestureOverlayView
+        android:id="@+id/gestureViewAbc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ff5ed598"
+        android:gestureColor="#ffffffff"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/clearAbc"
+        android:gestureStrokeType="multiple"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true">
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <com.edtech.animations.AnimationPanel
+                android:id="@+id/AnimationPanel"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:id="@+id/textAbc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="#ffffffff"
+                android:textStyle="bold"
+                android:textSize="@dimen/abc_text_size_headline_material"
+                android:layout_alignTop="@+id/gestureViewAbc"
+                android:layout_gravity="center_horizontal" />
+
+            <WebView
+                android:id="@+id/webViewAbc"
+                android:layout_width="100dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|top"
+                 />
+
+        </FrameLayout>
+    </android.gesture.GestureOverlayView>
+</RelativeLayout>

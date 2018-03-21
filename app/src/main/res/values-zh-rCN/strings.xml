@@ -1,0 +1,85 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">EdTech 非洲</string>
+
+    <!-- TTS -->
+    <string name="speech_prompt">请说话！</string>
+    <string name="speech_not_supported">抱歉！您的设备不支持语音输入。</string>
+    <string name="text_to_speech_fail_text">抱歉！Text To Speech 失败。</string>
+
+    <!-- Tabs -->
+    <string name="title_section1">教程</string>
+    <string name="title_section2">abc</string>
+    <string name="title_section3">123</string>
+    <string name="title_section4">说话</string>
+
+    <!-- Profile -->
+    <string name="action_profile">个人资料</string>
+    <string name="title_activity_profile">个人资料</string>
+    <string name="name">姓名：</string>
+    <string name="languages">语言</string>
+    <string name="english">英语</string>
+    <string name="swahili">斯瓦希里语</string>
+    <string name="mode">模式</string>
+    <string name="learning">学习</string>
+    <string name="testing">测试</string>
+    <string name="use_online_lessons">使用在线课程</string>
+
+    <!-- Lesson Thread Messages -->
+    <string name="run_unit_text">起始课：</string>
+    <string name="lesson_complete_text">教程已完成。</string>
+    <string name="cancel_lesson_text">正在取消当前的教程。请稍候。</string>
+    <string name="could_not_load_online_lessons_text">无法加载在线课程。 检查连接。</string>
+    <string name="match">完美匹配</string>
+    <string name="correct">正确</string>
+    <string name="try_again">再试一次</string>
+
+    <!-- Flash Bar -->
+    <string name="score">得分：</string>
+
+    <!-- Math Symbols -->
+    <string name="plus">加</string>
+    <string name="minus">减</string>
+    <string name="times">乘</string>
+    <string name="divided_by">除</string>
+    <string name="raised_to">的次幂</string>
+    <string name="equals">等于</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">发送</string>
+    <string name="not_connected">您没有连接到设备</string>
+    <string name="bt_not_enabled_leaving">蓝牙未启用。请关闭 BluetoothChat。</string>
+    <string name="title_connecting">连线中</string>
+    <string name="title_connected_to">已连接到 <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">未连接</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">正在扫描设备</string>
+    <string name="select_device">选择一个设备以连接</string>
+    <string name="none_paired">没有已配对的设备</string>
+    <string name="none_found">未找到设备</string>
+    <string name="title_paired_devices">已配对设备</string>
+    <string name="title_other_devices">其他可见设备</string>
+    <string name="button_scan">扫描设备</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">连接设备 - 安全</string>
+    <string name="insecure_connect">连接设备 - 不安全</string>
+    <string name="discoverable">设置为可被发现</string>
+
+    <!-- ToolTips -->
+    <string name="click_on_a_lesson">点击课程。</string>
+    <string name="write_on_the_slate">写在黑板上。</string>
+    <string name="hear_the_slate">听黑板。</string>
+    <string name="see_and_hear_the_answer">看到并听到答案。</string>
+    <string name="clear_the_slate">清洁黑板。</string>
+    <string name="record_your_voice">记录你的声音。</string>
+    <string name="clear_voice_slate">清洁黑板上的声音。</string>
+    <string name="stop_recording">停止录音。</string>
+    <string name="listen">听。</string>
+    <string name="welcome">欢迎！</string>
+
+    <!-- Permissions -->
+    <string name="thank_you">谢谢。</string>
+    <string name="missing_permissions_needed">需要缺少权限。 请在应用程序设置中允许其他功能。</string>
+
+</resources>

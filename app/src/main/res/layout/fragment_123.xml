@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="1dp"
+    android:paddingRight="1dp"
+    android:paddingTop="1dp"
+    android:paddingBottom="1dp"
+    tools:context=".activities.MainActivity">
+
+    <TextView
+        android:id="@+id/exercise123"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:text="Exercise:"
+        android:layout_alignParentStart="true"
+        android:layout_alignBottom="@+id/math123"
+        android:layout_alignTop="@+id/math123"
+        android:layout_toStartOf="@+id/math123" />
+
+    <ImageButton
+        android:id="@+id/clear123"
+        android:src="@android:drawable/stat_notify_sync"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true" />
+
+    <ImageButton
+        android:id="@+id/speak123"
+        android:src="@android:drawable/ic_lock_silent_mode_off"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/gestureView123"
+        android:layout_toStartOf="@+id/clear123" />
+
+    <ImageButton
+        android:id="@+id/math123"
+        android:src="@drawable/ic_action_equals"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/speak123"
+        android:layout_toStartOf="@+id/speak123"/>
+
+    <android.gesture.GestureOverlayView
+        android:id="@+id/gestureView123"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_blue_dark"
+        android:gestureColor="#ffffffff"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/clear123"
+        android:layout_alignParentEnd="true"
+        android:gestureStrokeType="multiple"
+        android:layout_alignParentBottom="true">
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+
+            <com.edtech.animations.MathPanel
+                android:id="@+id/MathPanel"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_gravity="center" />
+
+            <TextView
+                android:id="@+id/text123"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textColor="#ffffffff"
+                android:textStyle="bold"
+                android:textSize="@dimen/abc_text_size_headline_material"
+                android:layout_alignTop="@+id/gestureView123"
+                android:layout_gravity="center_horizontal" />
+
+        </FrameLayout>
+    </android.gesture.GestureOverlayView>
+</RelativeLayout>

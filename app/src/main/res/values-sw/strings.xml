@@ -1,0 +1,85 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">EdTech Africa</string>
+
+    <!-- TTS -->
+    <string name="speech_prompt">Kusema neno!</string>
+    <string name="speech_not_supported">Kujuta! Kifaa chako hakiingiliani hotuba pembejeo.</string>
+    <string name="text_to_speech_fail_text">Kujuta! Nakala Kwa Hotuba Imeshindwa.</string>
+
+    <!-- Tabs -->
+    <string name="title_section1">masomo</string>
+    <string name="title_section2">abc</string>
+    <string name="title_section3">123</string>
+    <string name="title_section4">kusema</string>
+
+    <!-- Profile -->
+    <string name="action_profile">Mazingira</string>
+    <string name="title_activity_profile">Mazingira</string>
+    <string name="name">Jina:</string>
+    <string name="languages">Lugha</string>
+    <string name="english">English</string>
+    <string name="swahili">Kiswahili</string>
+    <string name="mode">Mode</string>
+    <string name="learning">Kujifunza</string>
+    <string name="testing">Upimaji</string>
+    <string name="use_online_lessons">Matumizi Masomo Online</string>
+
+    <!-- Lesson Thread Messages -->
+    <string name="run_unit_text">kuanzia Somo:</string>
+    <string name="lesson_complete_text">Somo inafanywa.</string>
+    <string name="cancel_lesson_text">Inaghairi masomo ya sasa. Tafadhali subiri.</string>
+    <string name="could_not_load_online_lessons_text">Haikupakia masomo online. Angalia kuunganishwa.</string>
+    <string name="match">LINGANA</string>
+    <string name="correct">SAHIHI</string>
+    <string name="try_again">JARIBU TENA</string>
+
+    <!-- Flash Bar -->
+    <string name="score">alama:</string>
+
+    <!-- Math Symbols -->
+    <string name="plus">ongeza</string>
+    <string name="minus">bala</string>
+    <string name="times">tele na</string>
+    <string name="divided_by">kugawanywa na</string>
+    <string name="raised_to">kwa nguvu ya</string>
+    <string name="equals">ni sawa na</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Kutuma</string>
+    <string name="not_connected">Wewe si kushikamana na kifaa.</string>
+    <string name="bt_not_enabled_leaving">Bluetooth hakuwa kuwezeshwa. Kuacha ongea Bluetooth.</string>
+    <string name="title_connecting">kuunganisha</string>
+    <string name="title_connected_to">kushikamana na <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">si kushikamana</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Inatambazaa vifaa</string>
+    <string name="select_device">Chagua kifaa kuungana</string>
+    <string name="none_paired">Hakuna vifaa wamekuwa vilivyooanishwa</string>
+    <string name="none_found">Hakuna vifaa kupatikana</string>
+    <string name="title_paired_devices">Vifaa vilivyooanishwa</string>
+    <string name="title_other_devices">Nyingine inapatikana vifaa</string>
+    <string name="button_scan">Chunguza vifaa</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Kuunganisha kifaa - salama</string>
+    <string name="insecure_connect">Kuunganisha kifaa - si salama</string>
+    <string name="discoverable">Kufanya ndogo iweze</string>
+
+    <!-- ToolTips -->
+    <string name="click_on_a_lesson">Bonyeza kwenye somo.</string>
+    <string name="write_on_the_slate">Andika kwenye ubao.</string>
+    <string name="hear_the_slate">Sikiliza ubao.</string>
+    <string name="see_and_hear_the_answer">Kuona na kusikia jibu.</string>
+    <string name="clear_the_slate">Safisha ubao.</string>
+    <string name="record_your_voice">Rekodi sauti yako.</string>
+    <string name="clear_voice_slate">Sauti safi kwenye ubao.</string>
+    <string name="stop_recording">Acha kurekodi.</string>
+    <string name="listen">Kusikiliza.</string>
+    <string name="welcome">Karibu!</string>
+
+    <!-- Permissions -->
+    <string name="thank_you">Asante.</string>
+    <string name="missing_permissions_needed">Kukosa ruhusa inahitajika. Tafadhali ruhusu katika App Mipangilio ya kazi zaidi.</string>
+
+</resources>

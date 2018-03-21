@@ -1,0 +1,73 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="1dp"
+    android:paddingRight="1dp"
+    android:paddingTop="1dp"
+    android:paddingBottom="1dp"
+    tools:context=".activities.MainActivity">
+
+    <TextView
+        android:id="@+id/exerciseSpeech"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:textSize="@dimen/abc_text_size_medium_material"
+        android:text="Exercise:"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/readText"
+        android:layout_above="@+id/relativeLayout" />
+
+    <ImageButton
+        android:id="@+id/readText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/speakText"
+        android:layout_toStartOf="@+id/speakText"
+        android:src="@drawable/ic_action_start_recording" />
+
+    <ImageButton
+        android:id="@+id/speakText"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@android:drawable/ic_lock_silent_mode_off"
+        android:layout_alignParentTop="true"
+        android:layout_toStartOf="@+id/clearSpeech" />
+
+    <ImageButton
+        android:id="@+id/clearSpeech"
+        android:src="@android:drawable/stat_notify_sync"
+        android:clickable="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignBottom="@+id/speakText" />
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentStart="true"
+        android:id="@+id/relativeLayout"
+        android:layout_below="@+id/readText">
+
+        <com.edtech.audio.VisualizerView
+            android:id="@+id/VisualizerView"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true" />
+
+        <com.edtech.audio.PolarView
+            android:id="@+id/PolarView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/VisualizerView"
+            android:layout_alignParentStart="true" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

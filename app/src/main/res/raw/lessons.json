@@ -1,0 +1,1617 @@
+{
+  "application": "EdTech",
+  "lesson_model_version": "0.1",
+  "syllabus": [
+    {
+      "language": "Swahili",
+      "lessons": [
+        {
+          "unit": "Majina",
+          "title": "Mambo",
+          "modules": [
+            {
+              "subtitle": "Mambo",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "nyanya",
+                  "phonetic": "nyanya"
+                },
+                {
+                  "lesson": "mpira",
+                  "phonetic": "ma-pee-ra"
+                },
+                {
+                  "lesson": "simu",
+                  "phonetic": "see-moo"
+                },
+                {
+                  "lesson": "ndizi",
+                  "phonetic": "na-dee-zee"
+                },
+                {
+                  "lesson": "mbwa",
+                  "phonetic": "ma-buh-wa"
+                },
+                {
+                  "lesson": "nyumba",
+                  "phonetic": "nyoom-ba"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Kuhesabu",
+          "title": "Namba",
+          "modules": [
+            {
+              "subtitle": "Moja kwa Kumi",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "1",
+                  "phonetic": "moh-jah"
+                },
+                {
+                  "lesson": "2",
+                  "phonetic": "ma-bee-lee"
+                },
+                {
+                  "lesson": "3",
+                  "phonetic": "ta-too"
+                },
+                {
+                  "lesson": "4",
+                  "phonetic": "n-nay"
+                },
+                {
+                  "lesson": "5",
+                  "phonetic": "ta-noh"
+                },
+                {
+                  "lesson": "6",
+                  "phonetic": "see-ta"
+                },
+                {
+                  "lesson": "7",
+                  "phonetic": "sa-ba"
+                },
+                {
+                  "lesson": "8",
+                  "phonetic": "na-nay"
+                },
+                {
+                  "lesson": "9",
+                  "phonetic": "tee-sa"
+                },
+                {
+                  "lesson": "10",
+                  "phonetic": "koo-mee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Mambo",
+          "title": "Mambo Kuzunguka Nyumba",
+          "modules": [
+            {
+              "subtitle": "Mambo Ya Kila Siku",
+              "subject": "reading",
+              "difficulty": "2",
+              "exercises": [
+                {
+                  "lesson": "barafu",
+                  "phonetic": "ba-ra-foo"
+                },
+                {
+                  "lesson": "kamera",
+                  "phonetic": "ka-may-ra"
+                },
+                {
+                  "lesson": "mwamvuli",
+                  "phonetic": "ma-wam-voo-lee"
+                },
+                {
+                  "lesson": "jua",
+                  "phonetic": "joo-ah"
+                },
+                {
+                  "lesson": "kikombe",
+                  "phonetic": "kee-kohm-bay"
+                },
+                {
+                  "lesson": "chupa",
+                  "phonetic": "choo-pa"
+                },
+                {
+                  "lesson": "funguo",
+                  "phonetic": "foon-goo-oh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Usafiri",
+          "title": "Vyombo vya nchi kavu/hewani/baharini",
+          "modules": [
+            {
+              "subtitle": "nchi kavu",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "motokaa",
+                  "phonetic": "moh-toe-kaa"
+                },
+                {
+                  "lesson": "baisikeli",
+                  "phonetic": "ba-ee-see-kay-lee"
+                },
+                {
+                  "lesson": "matatu",
+                  "phonetic": "ma-ta-too"
+                },
+                {
+                  "lesson": "teksi",
+                  "phonetic": "tayk-see"
+                }
+              ]
+            },
+            {
+              "subtitle": "hewani",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "ndege",
+                  "phonetic": "na-day-gay"
+                },
+                {
+                  "lesson": "puto",
+                  "phonetic": "poo-toe"
+                },
+                {
+                  "lesson": "helikopta",
+                  "phonetic": "hay-lee-koh-pa-tah"
+                }
+              ]
+            },
+            {
+              "subtitle": "baharini",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "mtumbwi",
+                  "phonetic": "ma-toom-ba-wee"
+                },
+                {
+                  "lesson": "motaboti",
+                  "phonetic": "moh-ta-boh-tee"
+                },
+                {
+                  "lesson": "feri",
+                  "phonetic": "fay-ree"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Katika kilimo",
+          "title": "Wanyama wa Nyumbani",
+          "modules": [
+            {
+              "subtitle": "Wanyama",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "farasi",
+                  "phonetic": "fah-ra-see"
+                },
+                {
+                  "lesson": "ngamia",
+                  "phonetic": "na-ga-mee-ah"
+                },
+                {
+                  "lesson": "mbuzi",
+                  "phonetic": "ma-boo-zee"
+                },
+                {
+                  "lesson": "nguruwe",
+                  "phonetic": "na-goo-roo-way"
+                },
+                {
+                  "lesson": "mzinga",
+                  "phonetic": "ma-zeen-ga"
+                },
+                {
+                  "lesson": "kondoo",
+                  "phonetic": "kohn-doh"
+                },
+                {
+                  "lesson": "mbuni",
+                  "phonetic": "ma-boo-ni"
+                },
+                {
+                  "lesson": "kuku",
+                  "phonetic": "koo-koo"
+                },
+                {
+                  "lesson": "kasuku",
+                  "phonetic": "ka-soo-koo"
+                },
+                {
+                  "lesson": "jogoo",
+                  "phonetic": "joh-goh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Nyumbani",
+          "title": "Jikoni",
+          "modules": [
+            {
+              "subtitle": "Vitu ya kawaida jikoni",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "uma",
+                  "phonetic": "ooo-ma"
+                },
+                {
+                  "lesson": "kijiko",
+                  "phonetic": "kee-jee-koh"
+                },
+                {
+                  "lesson": "kizibuo",
+                  "phonetic": "kee-zee-boo-oh"
+                },
+                {
+                  "lesson": "kikombe",
+                  "phonetic": "kee-kohm-bay"
+                },
+                {
+                  "lesson": "bakuli",
+                  "phonetic": "ba-koo-lee"
+                },
+                {
+                  "lesson": "friji",
+                  "phonetic": "free-jee"
+                },
+                {
+                  "lesson": "jiko",
+                  "phonetic": "jee-koh"
+                },
+                {
+                  "lesson": "birika",
+                  "phonetic": "bee-ree-kah"
+                },
+                {
+                  "lesson": "kisu",
+                  "phonetic": "kee-soo"
+                },
+                {
+                  "lesson": "sahani",
+                  "phonetic": "sa-ha-ni"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Rahisi Hisabati - Ongeza",
+          "title": "Tarakimu moja na mbili",
+          "modules": [
+            {
+              "subtitle": "Tarakimu moja",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "1 + 3",
+                  "phonetic": "moh-jah ongeza ta-too"
+                },
+                {
+                  "lesson": "2 + 0",
+                  "phonetic": "ma-bee-lee ongeza see-foo-ree"
+                },
+                {
+                  "lesson": "4 + 5",
+                  "phonetic": "n-nay ongeza ta-noh"
+                },
+                {
+                  "lesson": "6 + 4",
+                  "phonetic": "see-ta ongeza n-nay"
+                }
+              ]
+            },
+            {
+              "subtitle": "Tathmini juu kumi",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "7 + 4",
+                  "phonetic": "sa-ba ongeza n-nay"
+                },
+                {
+                  "lesson": "6 + 5",
+                  "phonetic": "see-ta ongeza ta-noh"
+                },
+                {
+                  "lesson": "9 + 8",
+                  "phonetic": "tee-sa ongeza na-nay"
+                },
+                {
+                  "lesson": "3 + 9",
+                  "phonetic": "ta-too ongeza tee-sa"
+                },
+                {
+                  "lesson": "4 + 10",
+                  "phonetic": "n-nay ongeza koo-mee"
+                }
+              ]
+            },
+            {
+              "subtitle": "Mara mbili tarakimu na tarakimu moja",
+              "subject": "math",
+              "difficulty": "2",
+              "exercises": [
+                {
+                  "lesson": "10 + 1",
+                  "phonetic": "koo-mee ongeza moh-jah"
+                },
+                {
+                  "lesson": "12 + 4",
+                  "phonetic": "koo-me na ma-bee-lee ongeza n-nay"
+                },
+                {
+                  "lesson": "13 + 6",
+                  "phonetic": "koo-me na ta-too ongeza see-ta"
+                },
+                {
+                  "lesson": "15 + 7",
+                  "phonetic": "koo-me na ta-noh ongeza sa-ba"
+                },
+                {
+                  "lesson": "20 + 5",
+                  "phonetic": "ee-shee-ree-ni ongeza ta-noh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Rahisi Hisabati - Kutoa",
+          "title": "Tarakimu moja",
+          "modules": [
+            {
+              "subtitle": "Tarakimu moja",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "3 - 1",
+                  "phonetic": "ta-too bala moh-jah"
+                },
+                {
+                  "lesson": "5 - 4",
+                  "phonetic": "ta-noh bala n-nay"
+                },
+                {
+                  "lesson": "6 - 4",
+                  "phonetic": "see-ta bala n-nay"
+                },
+                {
+                  "lesson": "7 - 3",
+                  "phonetic": "sa-ba bala ta-too"
+                },
+                {
+                  "lesson": "2 - 0",
+                  "phonetic": "ma-bee-lee bala see-foo-ree"
+                }
+              ]
+            },
+            {
+              "subtitle": "Tathmini juu kumi",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "10 - 2",
+                  "phonetic": "koo-mee bala ma-bee-lee"
+                },
+                {
+                  "lesson": "11 - 4",
+                  "phonetic": "koo-mee-na-moh-jah bala n-nay"
+                },
+                {
+                  "lesson": "11 - 6",
+                  "phonetic": "koo-mee-na-moh-jah bala see-ta"
+                },
+                {
+                  "lesson": "17 - 9",
+                  "phonetic": "koo-mee-na-sa-ba bala tee-sa"
+                },
+                {
+                  "lesson": "12 - 3",
+                  "phonetic": "koo-mee-na-ma-bee-lee bala ta-too"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Rahisi Hisabati - Kuzidisha",
+          "title": "Meza kuzidisha",
+          "modules": [
+            {
+              "subtitle": "Kuzidisha kwa mbili",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "2 × 1",
+                  "phonetic": "ma-bee-lee te-lay na moh-jah"
+                },
+                {
+                  "lesson": "2 × 2",
+                  "phonetic": "ma-bee-lee te-lay na ma-bee-lee"
+                },
+                {
+                  "lesson": "2 × 3",
+                  "phonetic": "ma-bee-lee te-lay na ta-too"
+                },
+                {
+                  "lesson": "2 × 4",
+                  "phonetic": "ma-bee-lee te-lay na n-nay"
+                },
+                {
+                  "lesson": "2 × 5",
+                  "phonetic": "ma-bee-lee te-lay na ta-noh"
+                },
+                {
+                  "lesson": "2 × 6",
+                  "phonetic": "ma-bee-lee te-lay na see-ta"
+                },
+                {
+                  "lesson": "2 × 7",
+                  "phonetic": "ma-bee-lee te-lay na sa-ba"
+                },
+                {
+                  "lesson": "2 × 8",
+                  "phonetic": "ma-bee-lee te-lay na na-nay"
+                },
+                {
+                  "lesson": "2 × 9",
+                  "phonetic": "ma-bee-lee te-lay na tee-sa"
+                },
+                {
+                  "lesson": "2 × 10",
+                  "phonetic": "ma-bee-lee te-lay na koo-mee"
+                },
+                {
+                  "lesson": "2 × 11",
+                  "phonetic": "ma-bee-lee te-lay na koo-mee-na-moh-jah"
+                },
+                {
+                  "lesson": "2 × 12",
+                  "phonetic": "ma-bee-lee te-lay na koo-mee-na-ma-bee-lee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Rahisi Hisabati - Kugawanywa",
+          "title": "Meza kugawanywa",
+          "modules": [
+            {
+              "subtitle": "Kugawanywa kwa mbili",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "2 ÷ 2",
+                  "phonetic": "ma-bee-lee kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "4 ÷ 2",
+                  "phonetic": "n-nay kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "6 ÷ 2",
+                  "phonetic": "see-ta kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "8 ÷ 2",
+                  "phonetic": "na-nay kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "10 ÷ 2",
+                  "phonetic": "koo-mee kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "12 ÷ 2",
+                  "phonetic": "koo-mee-na-ma-bee-lee kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "14 ÷ 2",
+                  "phonetic": "koo-mee-na-n-nay kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "16 ÷ 2",
+                  "phonetic": "koo-mee-na-see-ta kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "18 ÷ 2",
+                  "phonetic": "koo-mee-na-na-nay kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "20 ÷ 2",
+                  "phonetic": "ee-shee-ree-ni kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "22 ÷ 2",
+                  "phonetic": "ee-shee-ree-ni-na-ma-bee-lee kugawanywa na ma-bee-lee"
+                },
+                {
+                  "lesson": "24 ÷ 2",
+                  "phonetic": "ee-shee-ree-ni-na-n-nay kugawanywa na ma-bee-lee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Vitendo Maneno",
+          "title": "Kuishi",
+          "modules": [
+            {
+              "subtitle": "msingi",
+              "subject": "reading",
+              "difficulty": "2",
+              "exercises": [
+                {
+                  "lesson": "Habari",
+                  "phonetic": "ha-ba-ree"
+                },
+                {
+                  "lesson": "Tutaonana",
+                  "phonetic": "too-ta-oh-na-na"
+                },
+                {
+                  "lesson": "Tafadhali",
+                  "phonetic": "tah-fah-dah-lee"
+                },
+                {
+                  "lesson": "Asante",
+                  "phonetic": "a-san-tay"
+                },
+                {
+                  "lesson": "Karibu",
+                  "phonetic": "ka-ree-boo"
+                },
+                {
+                  "lesson": "Ndiyo",
+                  "phonetic": "na-dee-yoh"
+                },
+                {
+                  "lesson": "Hapana",
+                  "phonetic": "ha-pa-na"
+                },
+                {
+                  "lesson": "Samahani",
+                  "phonetic": "sa-ma-ha-ni"
+                },
+                {
+                  "lesson": "Pole",
+                  "phonetic": "poh-lay"
+                },
+                {
+                  "lesson": "Naelewa",
+                  "phonetic": "na-ay-lay-wa"
+                },
+                {
+                  "lesson": "Sielewi",
+                  "phonetic": "see-ay-lay-wee"
+                },
+                {
+                  "lesson": "Dakika moja",
+                  "phonetic": "da-kee-ka moh-jah"
+                },
+                {
+                  "lesson": "Saidia!",
+                  "phonetic": "sa-ee-dee-ah"
+                },
+                {
+                  "lesson": "Vyoo viko wapi?",
+                  "phonetic": "vyoh vee-ko wa-pee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Maneno ya kijamii",
+          "title": "Kuzungumza / Kupanga Kukutana",
+          "modules": [
+            {
+              "subtitle": "majadiliano",
+              "subject": "reading",
+              "difficulty": "2",
+              "exercises": [
+                {
+                  "lesson": "Ni siku nzuri sana!",
+                  "phonetic": "ni see-koo na-zoo-ree sa-na"
+                },
+                {
+                  "lesson": "Hali ya hewa ni.",
+                  "phonetic": "ha-lee ya hay-wa ni"
+                },
+                {
+                  "lesson": "Unapapenda hapa?",
+                  "phonetic": "ooo-na-pa-payn-da ha-pa"
+                },
+                {
+                  "lesson": "Napapenda hapa.",
+                  "phonetic": "na-pa-payn-da ha-pa"
+                },
+                {
+                  "lesson": "Umetoka wapi?",
+                  "phonetic": "ooo-may-toe-ka wa-pee"
+                },
+                {
+                  "lesson": "Nimetoka sokani.",
+                  "phonetic": "ni-may-toe-ka so-kah-ni"
+                },
+                {
+                  "lesson": "Uko hapa kwa likizo?",
+                  "phonetic": "ooo-koh ha-pa kuh-wah lee-kee-zoh"
+                },
+                {
+                  "lesson": "Nipo kwa masomo.",
+                  "phonetic": "ni-poh kuh-wah ma-so-moh"
+                },
+                {
+                  "lesson": "Upo kwa muda gani?",
+                  "phonetic": "ooo-poh kuh-wah moo-da ga-ni"
+                },
+                {
+                  "lesson": "Nipo kwa wiki nne.",
+                  "phonetic": "ni-poh kuh-wah wee-kee n-nay"
+                },
+                {
+                  "lesson": "Hii inaitwa nini?",
+                  "phonetic": "hee ee-na-eet-wa ni-ni"
+                }
+              ]
+            },
+            {
+              "subtitle": "mkutano",
+              "subject": "reading",
+              "difficulty": "2",
+              "exercises": [
+                {
+                  "lesson": "Tukutane saa ngapi?",
+                  "phonetic": "too-koo-ta-nay sa na-ga-pee"
+                },
+                {
+                  "lesson": "Tukutane wapi?",
+                  "phonetic": "too-koo-ta-nay wa-pee"
+                },
+                {
+                  "lesson": "Tukutane mlango wa kuingia",
+                  "phonetic": "too-koo-ta-nay ma-lan-goh wa koo-een-gee-ah"
+                },
+                {
+                  "lesson": "Nitakuja kukuchukua.",
+                  "phonetic": "ni-ta-koo-ja koo-koo-choo-koo-ah"
+                },
+                {
+                  "lesson": "Tayari?",
+                  "phonetic": "ta-ya-ree"
+                },
+                {
+                  "lesson": "Mimi ni tayari.",
+                  "phonetic": "mee-mee ni ta-ya-ree"
+                },
+                {
+                  "lesson": "Nitakuja baadaye.",
+                  "phonetic": "ni-tak-koo-jah ba-a-da-yay"
+                },
+                {
+                  "lesson": "Tutaonana kesho.",
+                  "phonetic": "too-ta-oh-na-na kay-sho"
+                },
+                {
+                  "lesson": "Natarejea sana.",
+                  "phonetic": "na-ta-ray-jay-a sa-na"
+                },
+                {
+                  "lesson": "Samahani kwa kuchelewa.",
+                  "phonetic": "sa-ma-ha-ni kuh-wa koo-chay-lay-wa"
+                },
+                {
+                  "lesson": "Usijali.",
+                  "phonetic": "ooo-see-jah-lee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Hoteli Maneno",
+          "title": "Kula nje",
+          "modules": [
+            {
+              "subtitle": "hoteli",
+              "subject": "reading",
+              "difficulty": "2",
+              "exercises": [
+                {
+                  "lesson": "Chakula gani ni kizuri?",
+                  "phonetic": "cha-koo-la ga-ni ni kee-zoo-ree"
+                },
+                {
+                  "lesson": "Chakula hicho kinapikwaje?",
+                  "phonetic": "cha-koo-la hee-choh kee-na-peek-wa-jay"
+                },
+                {
+                  "lesson": "Nataka hicho.",
+                  "phonetic": "na-ta-ka hee-choh"
+                },
+                {
+                  "lesson": "Inachukua muda mrefu kuandaa?",
+                  "phonetic": "ee-na-choo-koo-a moo-da ma-ray-foo koo-an-da"
+                },
+                {
+                  "lesson": "Milo hupikwa sasa hivi au zamani kidogo?",
+                  "phonetic": "mee-loh hoo-peek-wa sa-sa hee-vee a-ooo za-ma-ni kee-doh-gah?"
+                },
+                {
+                  "lesson": "Ni lazima kujihuduma?",
+                  "phonetic": "nee la-zee-ma koo-jee-hoo-doo-ma?"
+                },
+                {
+                  "lesson": "Kuna bei ya kuingia?",
+                  "phonetic": "koo-na bay ya koo-een-gee-ah"
+                },
+                {
+                  "lesson": "Bili inazingatia huduma?",
+                  "phonetic": "bee-lee ee-na-zeen-ga-tee-a hoo-doo-ma?"
+                },
+                {
+                  "lesson": "Hizi ni bure?",
+                  "phonetic": "hee-zee nee boo-ray?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "English",
+      "lessons": [
+        {
+          "unit": "Nouns",
+          "title": "Writing Single Syllable Words",
+          "modules": [
+            {
+              "subtitle": "Animals",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "cat",
+                  "phonetic": "kat"
+                },
+                {
+                  "lesson": "dog",
+                  "phonetic": "dôɡ"
+                },
+                {
+                  "lesson": "cow",
+                  "phonetic": "kou"
+                },
+                {
+                  "lesson": "sheep",
+                  "phonetic": "SHēp"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Counting",
+          "title": "Numbers",
+          "modules": [
+            {
+              "subtitle": "Simple Numbers",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "1",
+                  "phonetic": "wən"
+                },
+                {
+                  "lesson": "2",
+                  "phonetic": "to͞o"
+                },
+                {
+                  "lesson": "3",
+                  "phonetic": "THrē"
+                },
+                {
+                  "lesson": "4",
+                  "phonetic": "fôr"
+                },
+                {
+                  "lesson": "5",
+                  "phonetic": "fīv"
+                },
+                {
+                  "lesson": "6",
+                  "phonetic": "siks"
+                },
+                {
+                  "lesson": "7",
+                  "phonetic": "ˈsevən"
+                },
+                {
+                  "lesson": "8",
+                  "phonetic": "āt"
+                },
+                {
+                  "lesson": "9",
+                  "phonetic": "nīn"
+                },
+                {
+                  "lesson": "10",
+                  "phonetic": "ten"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "General Phrases",
+          "title": "Vowel Sounds",
+          "modules": [
+            {
+              "subtitle": "/o/ as in 'go'",
+              "subject": "reading",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "Show me",
+                  "phonetic": "SHō-mē"
+                },
+                {
+                  "lesson": "Open it",
+                  "phonetic": "ˈōpən-it"
+                },
+                {
+                  "lesson": "Time to go",
+                  "phonetic": "tīm-to͞o-ɡō"
+                },
+                {
+                  "lesson": "Close the door",
+                  "phonetic": "klōs-T͟Hē-dôr"
+                },
+                {
+                  "lesson": "Go with the flow",
+                  "phonetic": "ɡō-wiT͟H-T͟Hē-flō"
+                }
+              ]
+            },
+            {
+              "subtitle": "/u/ as in 'shoe'",
+              "subject": "reading",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "Get your shoes",
+                  "phonetic": "ɡet-yôr-SHo͞oz"
+                },
+                {
+                  "lesson": "That's cool",
+                  "phonetic": "T͟Hats-ko͞ol"
+                },
+                {
+                  "lesson": "Time for school",
+                  "phonetic": "tīm-fawr-sko͞ol"
+                },
+                {
+                  "lesson": "Ooh, yuck!",
+                  "phonetic": "o͞o-yək"
+                },
+                {
+                  "lesson": "Who is it?",
+                  "phonetic": "ho͞o-iz-it"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Transportation Vehicles",
+          "title": "Land/Air/Sea",
+          "modules": [
+            {
+              "subtitle": "Land",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "car",
+                  "phonetic": "kär"
+                },
+                {
+                  "lesson": "bicycle",
+                  "phonetic": "ˈbīsək(ə)l"
+                },
+                {
+                  "lesson": "bus",
+                  "phonetic": "bəs"
+                },
+                {
+                  "lesson": "taxi",
+                  "phonetic": "ˈtaksē"
+                }
+              ]
+            },
+            {
+              "subtitle": "Air",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "aeroplane",
+                  "phonetic": "ˈerəˌplān"
+                },
+                {
+                  "lesson": "balloon",
+                  "phonetic": "bəˈlo͞on"
+                },
+                {
+                  "lesson": "helicopter",
+                  "phonetic": "ˈheləˌkäptər"
+                }
+              ]
+            },
+            {
+              "subtitle": "Sea",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "canoe",
+                  "phonetic": "kəˈno͞o"
+                },
+                {
+                  "lesson": "motorboat",
+                  "phonetic": "ˈmōdərˌbōt"
+                },
+                {
+                  "lesson": "ferry",
+                  "phonetic": "ˈferē"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "At the farm",
+          "title": "Farm Animals",
+          "modules": [
+            {
+              "subtitle": "Animals",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "horse",
+                  "phonetic": "hôrs"
+                },
+                {
+                  "lesson": "camel",
+                  "phonetic": "ˈkaməl"
+                },
+                {
+                  "lesson": "goat",
+                  "phonetic": "ɡōt"
+                },
+                {
+                  "lesson": "pig",
+                  "phonetic": "piɡ"
+                },
+                {
+                  "lesson": "duck",
+                  "phonetic": "dək"
+                },
+                {
+                  "lesson": "sheep",
+                  "phonetic": "SHēp"
+                },
+                {
+                  "lesson": "turkey",
+                  "phonetic": "ˈtərkē"
+                },
+                {
+                  "lesson": "hen",
+                  "phonetic": "hen"
+                },
+                {
+                  "lesson": "goose",
+                  "phonetic": "ɡo͞os"
+                },
+                {
+                  "lesson": "cockerel",
+                  "phonetic": "ˈkäk(ə)rəl"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "At Home",
+          "title": "In The Kitchen",
+          "modules": [
+            {
+              "subtitle": "Typical Kitchen Items",
+              "subject": "writing",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "fork",
+                  "phonetic": "fôrk"
+                },
+                {
+                  "lesson": "spoon",
+                  "phonetic": "spo͞on"
+                },
+                {
+                  "lesson": "opener",
+                  "phonetic": "ˈōp(ə)nər"
+                },
+                {
+                  "lesson": "cup",
+                  "phonetic": "kəp"
+                },
+                {
+                  "lesson": "bowl",
+                  "phonetic": "bōl"
+                },
+                {
+                  "lesson": "fridge",
+                  "phonetic": "frij"
+                },
+                {
+                  "lesson": "oven",
+                  "phonetic": "ˈəvən"
+                },
+                {
+                  "lesson": "kettle",
+                  "phonetic": "ˈkedl"
+                },
+                {
+                  "lesson": "knife",
+                  "phonetic": "nīf"
+                },
+                {
+                  "lesson": "tray",
+                  "phonetic": "trā"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Simple Math - Addition",
+          "title": "Single and Double Digit",
+          "modules": [
+            {
+              "subtitle": "Single Digit",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "1 + 3",
+                  "phonetic": "wən-pləs-THrē"
+                },
+                {
+                  "lesson": "2 + 0",
+                  "phonetic": "to͞o-pləs-ˈzirō"
+                },
+                {
+                  "lesson": "4 + 5",
+                  "phonetic": "fôr-pləs-fīv"
+                },
+                {
+                  "lesson": "6 + 4",
+                  "phonetic": "siks-pləs-fôr"
+                }
+              ]
+            },
+            {
+              "subtitle": "Evaluations above ten",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "7 + 4",
+                  "phonetic": "ˈsevən-pləs-fôr"
+                },
+                {
+                  "lesson": "6 + 5",
+                  "phonetic": "siks-pləs-fīv"
+                },
+                {
+                  "lesson": "9 + 8",
+                  "phonetic": "nīn-pləs-āt"
+                },
+                {
+                  "lesson": "3 + 9",
+                  "phonetic": "THrē-pləs-nīn"
+                },
+                {
+                  "lesson": "4 + 10",
+                  "phonetic": "fôr-pləs-ten"
+                }
+              ]
+            },
+            {
+              "subtitle": "Double Digit + Single Digit",
+              "subject": "math",
+              "difficulty": "2",
+              "exercises": [
+                {
+                  "lesson": "10 + 1",
+                  "phonetic": "ten-pləs-wən"
+                },
+                {
+                  "lesson": "12 + 4",
+                  "phonetic": "twelv-pləs-fôr"
+                },
+                {
+                  "lesson": "13 + 6",
+                  "phonetic": "ˌTHərˈtēn-pləs-siks"
+                },
+                {
+                  "lesson": "15 + 7",
+                  "phonetic": "fifˈtēn-pləs-ˈsevən"
+                },
+                {
+                  "lesson": "20 + 5",
+                  "phonetic": "ˈtwentē-pləs-fīv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Simple Math - Subtraction",
+          "title": "Single Digit",
+          "modules": [
+            {
+              "subtitle": "Single Digit",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "3 - 1",
+                  "phonetic": "THrē-ˈmīnəs-wən"
+                },
+                {
+                  "lesson": "5 - 4",
+                  "phonetic": "fīv-ˈmīnəs-fôr"
+                },
+                {
+                  "lesson": "6 - 4",
+                  "phonetic": "siks-ˈmīnəs-fôr"
+                },
+                {
+                  "lesson": "7 - 3",
+                  "phonetic": "ˈsevən-ˈmīnəs-THrē"
+                },
+                {
+                  "lesson": "2 - 0",
+                  "phonetic": "to͞o-ˈmīnəs-ˈzirō"
+                }
+              ]
+            },
+            {
+              "subtitle": "Evaluations above ten",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "10 - 2",
+                  "phonetic": "ten-ˈmīnəs-to͞o"
+                },
+                {
+                  "lesson": "11 - 4",
+                  "phonetic": "əˈlevən-ˈmīnəs-fôr"
+                },
+                {
+                  "lesson": "11 - 6",
+                  "phonetic": "əˈlevən-ˈmīnəs-siks"
+                },
+                {
+                  "lesson": "17 - 9",
+                  "phonetic": "ˌsevənˈtēn-ˈmīnəs-nīn"
+                },
+                {
+                  "lesson": "12 - 3",
+                  "phonetic": "twelv-ˈmīnəs-THrē"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Simple Math - Multiplication",
+          "title": "Times Tables",
+          "modules": [
+            {
+              "subtitle": "Multiplication by Two",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "2 × 1",
+                  "phonetic": "to͞o-tīmz-wən"
+                },
+                {
+                  "lesson": "2 × 2",
+                  "phonetic": "to͞o-tīmz-to͞o"
+                },
+                {
+                  "lesson": "2 × 3",
+                  "phonetic": "to͞o-tīmz-THrē"
+                },
+                {
+                  "lesson": "2 × 4",
+                  "phonetic": "to͞o-tīmz-fôr"
+                },
+                {
+                  "lesson": "2 × 5",
+                  "phonetic": "to͞o-tīmz-fīv"
+                },
+                {
+                  "lesson": "2 × 6",
+                  "phonetic": "to͞o-tīmz-siks"
+                },
+                {
+                  "lesson": "2 × 7",
+                  "phonetic": "to͞o-tīmz-ˈsevən"
+                },
+                {
+                  "lesson": "2 × 8",
+                  "phonetic": "to͞o-tīmz-āt"
+                },
+                {
+                  "lesson": "2 × 9",
+                  "phonetic": "to͞o-tīmz-nīn"
+                },
+                {
+                  "lesson": "2 × 10",
+                  "phonetic": "to͞o-tīmz-ten"
+                },
+                {
+                  "lesson": "2 × 11",
+                  "phonetic": "to͞o-tīmz-əˈlevən"
+                },
+                {
+                  "lesson": "2 × 12",
+                  "phonetic": "to͞o-tīmz-twelv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Simple Math - Division",
+          "title": "Division Tables",
+          "modules": [
+            {
+              "subtitle": "Division by Two",
+              "subject": "math",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "2 ÷ 2",
+                  "phonetic": "to͞o dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "4 ÷ 2",
+                  "phonetic": "fôr dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "6 ÷ 2",
+                  "phonetic": "siks dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "8 ÷ 2",
+                  "phonetic": "āt dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "10 ÷ 2",
+                  "phonetic": "ten dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "12 ÷ 2",
+                  "phonetic": "twelv dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "14 ÷ 2",
+                  "phonetic": "ˌfôrˈtēn dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "16 ÷ 2",
+                  "phonetic": "sikˈstēn dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "18 ÷ 2",
+                  "phonetic": "āˈtēn dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "20 ÷ 2",
+                  "phonetic": "ˈtwentē dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "22 ÷ 2",
+                  "phonetic": "ˈtwentē-to͞o dəˈvīded-bī to͞o"
+                },
+                {
+                  "lesson": "24 ÷ 2",
+                  "phonetic": "ˈtwentē-fôr dəˈvīded-bī to͞o"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Practical Phrases",
+          "title": "Survival",
+          "modules": [
+            {
+              "subtitle": "Basic",
+              "subject": "reading",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "Hello",
+                  "phonetic": "həˈlō"
+                },
+                {
+                  "lesson": "Goodbye",
+                  "phonetic": "ɡo͝odˈbī"
+                },
+                {
+                  "lesson": "Please",
+                  "phonetic": "plēz"
+                },
+                {
+                  "lesson": "Thank you",
+                  "phonetic": "THaNGk yo͞o"
+                },
+                {
+                  "lesson": "You're welcome",
+                  "phonetic": "yo͝or ˈwelkəm"
+                },
+                {
+                  "lesson": "Yes",
+                  "phonetic": "yes"
+                },
+                {
+                  "lesson": "No",
+                  "phonetic": "nō"
+                },
+                {
+                  "lesson": "Excuse me",
+                  "phonetic": "ikˈskyo͞oz mē"
+                },
+                {
+                  "lesson": "Sorry",
+                  "phonetic": "ˈsôrē"
+                },
+                {
+                  "lesson": "I understand",
+                  "phonetic": "ī ˌəndərˈstand"
+                },
+                {
+                  "lesson": "I don't understand",
+                  "phonetic": "ī dōnt ˌəndərˈstand"
+                },
+                {
+                  "lesson": "Just a moment",
+                  "phonetic": "jəst ā ˈmōmənt"
+                },
+                {
+                  "lesson": "Help!",
+                  "phonetic": "help"
+                },
+                {
+                  "lesson": "Where are the toilets?",
+                  "phonetic": "(h)wer är T͟Hē ˈtoilits"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Social Phrases",
+          "title": "Making Conversation (Small Talk/Meeting)",
+          "modules": [
+            {
+              "subtitle": "Small Talk",
+              "subject": "reading",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "What a beautiful day!",
+                  "phonetic": "(h)wət ā ˈbyo͞odəfəl dā!"
+                },
+                {
+                  "lesson": "Nice weather isn't it?",
+                  "phonetic": "nīs ˈweT͟Hər ˈiz(ə)nt it?"
+                },
+                {
+                  "lesson": "Do you like it here?",
+                  "phonetic": "do͞o yo͞o līk it hir?"
+                },
+                {
+                  "lesson": "I love it here.",
+                  "phonetic": "ī ləv it hir"
+                },
+                {
+                  "lesson": "Where are you coming from?",
+                  "phonetic": "(h)wer är yo͞o ˈkəmiNG frəm?"
+                },
+                {
+                  "lesson": "I'm coming from the market.",
+                  "phonetic": "īm ˈkəmiNG frəm T͟Hē ˈmärkət."
+                },
+                {
+                  "lesson": "Are you here on holiday?",
+                  "phonetic": "är yo͞o hir än ˈhäləˌdā?"
+                },
+                {
+                  "lesson": "I'm here to study.",
+                  "phonetic": "īm hir to͞o ˈstədē."
+                },
+                {
+                  "lesson": "How long are you here for?",
+                  "phonetic": "hou lôNG är yo͞o hir fôr?"
+                },
+                {
+                  "lesson": "I'm here for four weeks.",
+                  "phonetic": "īm hir fôr fôr wēks."
+                },
+                {
+                  "lesson": "What's this called?",
+                  "phonetic": "(h)wəts T͟His kôld?"
+                }
+              ]
+            },
+            {
+              "subtitle": "Arranging to meet",
+              "subject": "reading",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "What time will we meet?",
+                  "phonetic": "(h)wət tīm wilˈwē mēt?"
+                },
+                {
+                  "lesson": "Where will we meet?",
+                  "phonetic": "(h)wer wilˈwē mēt?"
+                },
+                {
+                  "lesson": "Let's meet at the entrance.",
+                  "phonetic": "lets mēt at T͟Hē ˈentrəns."
+                },
+                {
+                  "lesson": "I'll pick you up.",
+                  "phonetic": "īl pik yo͞o əp."
+                },
+                {
+                  "lesson": "Are you ready?",
+                  "phonetic": "är yo͞o ˈredē?"
+                },
+                {
+                  "lesson": "I'm ready.",
+                  "phonetic": "īm ˈˈredē."
+                },
+                {
+                  "lesson": "I'll be coming later.",
+                  "phonetic": "īl bē ˈkəmiNG ˈlādər."
+                },
+                {
+                  "lesson": "See you tomorrow.",
+                  "phonetic": "sē yo͞o təˈmôrō."
+                },
+                {
+                  "lesson": "I'm looking forward to it.",
+                  "phonetic": "īm lo͝okiNG ˈfôrwərd to͞o it."
+                },
+                {
+                  "lesson": "Sorry I'm late.",
+                  "phonetic": "ˈsärē īm lāt."
+                },
+                {
+                  "lesson": "Never mind.",
+                  "phonetic": "ˈnevər mīnd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "unit": "Restaurant Phrases",
+          "title": "Eating out",
+          "modules": [
+            {
+              "subtitle": "Basic",
+              "subject": "reading",
+              "difficulty": "1",
+              "exercises": [
+                {
+                  "lesson": "What would you recommend?",
+                  "phonetic": "(h)wət wo͝od yo͞o ˌrekəˈmend?"
+                },
+                {
+                  "lesson": "What's in that dish?",
+                  "phonetic": "(h)wəts in T͟Hat diSH?"
+                },
+                {
+                  "lesson": "I'll have that.",
+                  "phonetic": "īl hav T͟Hat."
+                },
+                {
+                  "lesson": "Does it take long to prepare?",
+                  "phonetic": "dəz it tāk lôNG to͞o prəˈper?"
+                },
+                {
+                  "lesson": "Are the meals freshly cooked?",
+                  "phonetic": "är T͟Hē mēls ˈfreSHlē ko͝okd?"
+                },
+                {
+                  "lesson": "Is it self serve?",
+                  "phonetic": "iz it self sərv?"
+                },
+                {
+                  "lesson": "Is there a cover charge?",
+                  "phonetic": "iz T͟Her ā ˈkəvər CHärj?"
+                },
+                {
+                  "lesson": "Is service included in the bill?",
+                  "phonetic": "iz ˈsərvəs inˈklo͞odid in T͟Hē bil?"
+                },
+                {
+                  "lesson": "Are these complimentary?",
+                  "phonetic": "är T͟Hēz ˌkämpləˈment(ə)rē?"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

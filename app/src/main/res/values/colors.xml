@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="unit_label">#ff43bd00</color>
+    <color name="title_label">#ffacacac</color>
+    <color name="score_label">#ff5d5d5d</color>
+    <color name="slate_green">#ff5ed598</color>
+    <color name="slate_blue">#ff0099cc</color>
+    <color name="slate_audio">#ff0080ff</color>
+    <color name="slate_audio_background">#ff000000</color>
+</resources>

@@ -1,0 +1,85 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">EdTech Africa</string>
+
+    <!-- TTS -->
+    <string name="speech_prompt">Say any word!</string>
+    <string name="speech_not_supported">Sorry! Your device does not support speech input.</string>
+    <string name="text_to_speech_fail_text">Sorry! Text To Speech Failed.</string>
+
+    <!-- Tabs -->
+    <string name="title_section1">Lessons</string>
+    <string name="title_section2">abc</string>
+    <string name="title_section3">123</string>
+    <string name="title_section4">Speak</string>
+
+    <!-- Profile -->
+    <string name="action_profile">Profile</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="name">Name:</string>
+    <string name="languages">Languages</string>
+    <string name="english">English</string>
+    <string name="swahili">Swahili</string>
+    <string name="mode">Mode</string>
+    <string name="learning">Learning</string>
+    <string name="testing">Testing</string>
+    <string name="use_online_lessons">Use Online Lessons</string>
+
+    <!-- Lesson Thread Messages -->
+    <string name="run_unit_text">Starting Lesson:</string>
+    <string name="lesson_complete_text">Lessons Complete.</string>
+    <string name="cancel_lesson_text">Cancelling current lessons.  Please wait.</string>
+    <string name="could_not_load_online_lessons_text">Could not load online lessons.  Check connectivity.</string>
+    <string name="match">MATCH</string>
+    <string name="correct">CORRECT</string>
+    <string name="try_again">TRY AGAIN</string>
+
+    <!-- Flash Bar -->
+    <string name="score">Score:</string>
+
+    <!-- Math Symbols -->
+    <string name="plus">plus</string>
+    <string name="minus">minus</string>
+    <string name="times">times</string>
+    <string name="divided_by">divided by</string>
+    <string name="raised_to">raised to power of</string>
+    <string name="equals">equals</string>
+
+    <!--  BluetoothChat -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device.</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">connecting</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">Scanning for devices</string>
+    <string name="select_device">Select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+
+    <!-- ToolTips -->
+    <string name="click_on_a_lesson">Click on a lesson.</string>
+    <string name="write_on_the_slate">Write on the slate.</string>
+    <string name="hear_the_slate">Hear the slate.</string>
+    <string name="see_and_hear_the_answer">See and hear the answer.</string>
+    <string name="clear_the_slate">Clear the slate.</string>
+    <string name="record_your_voice">Record your voice.</string>
+    <string name="clear_voice_slate">Clear voice slate.</string>
+    <string name="stop_recording">Stop recording.</string>
+    <string name="listen">Listen.</string>
+    <string name="welcome">Welcome!</string>
+
+    <!-- Permissions -->
+    <string name="thank_you">Thank you.</string>
+    <string name="missing_permissions_needed">Missing permissions needed. Please allow in App Settings for additional functionality.</string>
+
+</resources>

@@ -1,0 +1,14 @@
+*.iml
+/app/*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/projectFilesBackup/.idea
+/.idea
+.DS_Store
+/build
+/captures
+/app/debug
+/app/release
+/app/google-services.json
